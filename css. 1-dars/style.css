@@ -1,0 +1,55 @@
+.h1{
+    background-color: red;
+    border-width: 70%;
+    padding: 30px;
+text-align: center;
+margin-top:10px ;
+color: #fff;
+
+
+}
+.div{
+    border: 3px solid red;
+margin-top: none;
+background-color: #fff;
+    
+}
+.body{
+    background-color:wheat;
+}
+.dd{
+margin-left: 20px;
+    margin-bottom: 20px;
+}
+.div5{
+    border-style: outset;
+    background-color: #fff;
+width: 80%;
+margin-left: 25px;
+}
+.div6{
+    border-style: outset;
+    background-color: blue;
+    width: 80%;
+    color: white;
+    margin-left: 25px;
+}
+.div7{
+    border-style: outset;
+    background-color: red;
+    color: #fff;
+    width: 80%;
+    margin-left: 25px;
+}
+.clas{
+    font-style: italic;
+}
+.sp{
+    width: 30%;
+}
+
+
+
+
+
+
